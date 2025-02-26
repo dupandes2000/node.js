@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop ASUS",
+    "price": 12000000
+  },
+  {
+    "id": 2,
+    "name": "Mouse Logitech",
+    "price": 350000
+  }
+]
